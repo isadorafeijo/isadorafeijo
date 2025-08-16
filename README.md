@@ -2,7 +2,9 @@
 
 **`Desenvolvedora`**
 
-Me chamo Isadora Santos Feijó, tenho 18 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio em 2024. e atualmente, estou cursando Tecnologia em Sistemas para Internet no IFRS. Sou apaixonada pela tecnologia e de como ela está cada vez mais revolucionária, adoro explorar novas possibilidades, sempre buscando aprender e me desenvolver. Aqui no GitHub, vou compartilhar meus projetos, experimentos e meu crescimento na área.
+<p>
+ Me chamo Isadora Santos Feijó, tenho 18 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio em 2024. e atualmente, estou cursando Tecnologia em Sistemas para Internet no IFRS. Sou apaixonada pela tecnologia e de como ela está cada vez mais revolucionária, adoro explorar novas possibilidades, sempre buscando aprender e me desenvolver. Aqui no GitHub, vou compartilhar meus projetos, experimentos e meu crescimento na área.
+
  ---
  ### 🤖 Linguagens e Tecnologias 
   <img 
