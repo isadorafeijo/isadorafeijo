@@ -80,9 +80,9 @@ Sistema desenvolvido em Java para gerenciamento de um pet shop, trabalhando conc
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=isadorafeijo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=isadorafeijo&show_icons=true&theme=dark&hide_border=true)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isadorafeijo&layout=compact&langs_count=7&theme=dark"/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=isadorafeijo&layout=compact&theme=dark&hide_border=true)
 
 </div>
 
@@ -97,7 +97,7 @@ Sistema desenvolvido em Java para gerenciamento de um pet shop, trabalhando conc
 </a>
 
 
-<a href="www.linkedin.com/in/isadorafeijo">
+<a href="https://www.linkedin.com/in/isadorafeijo/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
