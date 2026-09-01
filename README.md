@@ -76,18 +76,6 @@ Sistema desenvolvido em Java para gerenciamento de um pet shop, trabalhando conc
 
 ---
 
-## 📊 GitHub
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=isadorafeijo&show_icons=true&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=isadorafeijo&layout=compact&theme=dark&hide_border=true)
-
-</div>
-
----
-
 ## 📫 Contato
 
 <div align="left">
