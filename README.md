@@ -2,11 +2,30 @@
 
 **`Desenvolvedora`**
 
-<p>
- Me chamo Isadora Santos Feijó, tenho 19 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio em 2024. e atualmente, estou cursando Tecnologia em Sistemas para Internet no IFRS. Sou apaixonada pela tecnologia e de como ela está cada vez mais revolucionária, adoro explorar novas possibilidades, sempre buscando aprender e me desenvolver. Aqui no GitHub, vou compartilhar meus projetos, experimentos e meu crescimento na área.
+🎓 Estudante de **Tecnologia em Sistemas para Internet**  
+💻 Interessada em desenvolvimento de software e área de Dados  
 
- ---
- ### 🤖 Linguagens e Tecnologias 
+---
+
+## 🚀 Tecnologias e Linguagens
+
+<div align="left">
+  <img 
+    align="left" 
+    alt="Java"
+    title="Java" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
+
+  <img 
+    align="left" 
+    alt="JavaScript"
+    title="JavaScript" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+
   <img 
     align="left" 
     alt="HTML"
@@ -14,49 +33,74 @@
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+
   <img 
     align="left" 
-    alt="CSS" 
-    title="CSS"
+    alt="CSS"
+    title="CSS" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+
+  <img 
     align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left"
     alt="C"
-    title="C"
-    width="30px"
-    style="padding-right: 10px"
-    src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000"
-/>
-<br/>
-<br/>
-### 📊 Estatíticas
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
+    title="C" 
+    width="30px" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=isadorafeijo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
+</div>
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=isadorafeijo&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+<br>
+<br>
 
-</p>
+---
 
+## 📌 Sobre mim
+
+- 🎓 Estudante de Tecnologia em Sistemas para Internet
+- 💡 Interesse em desenvolvimento de software e Banco de Dados
+- 🌐 Experiência acadêmica com desenvolvimento web
+- ☕ Desenvolvimento em Java e Programação Orientada a Objetos
+- 🗄️ Conhecimentos em banco de dados e SQL
+- 🧩 Praticando estruturas de dados e lógica de programação
+
+---
+
+## 💻 Projetos
+
+Aqui você pode encontrar alguns dos projetos que desenvolvi durante minha trajetória acadêmica e meus estudos.
+
+### 🐾 Pet Bem-Estar
+Sistema desenvolvido em Java para gerenciamento de um pet shop, trabalhando conceitos de **Programação Orientada a Objetos, Maven e Jakarta Persistence**.
+
+---
+
+## 📊 GitHub
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=isadorafeijo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isadorafeijo&layout=compact&langs_count=7&theme=dark"/>
+
+</div>
+
+---
+
+## 📫 Contato
+
+<div align="left">
+
+<a href="https://github.com/isadorafeijo">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+
+<a href="www.linkedin.com/in/isadorafeijo">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+
+</div>
 
